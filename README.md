@@ -9,7 +9,7 @@ Check [this link](https://github.com/raspberryenvoie/piRa1n) for instructions on
 The default username is `pi` and the password is `jailbreak`.
 
 ## Build piRa1n-OS
-The tool used to build piRa1n-OS (pi-gen) supports Debian Buster and Ubuntu Xenial. More informations on pi-gen can be found [here](https://github.com/RPi-Distro/Pi-gen).
+The tool used to build piRa1n-OS (pi-gen) supports Debian Buster and Ubuntu Xenial. More information on pi-gen can be found [here](https://github.com/RPi-Distro/Pi-gen).
 
 To install the required dependencies for pi-gen you should run:
 ```bash
