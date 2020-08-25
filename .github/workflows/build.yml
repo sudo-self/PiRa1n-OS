@@ -2,7 +2,8 @@ name: Build piRa1n-OS
 
 on:
   push:
-    branches: [ master ]
+    paths:
+    - 'version'
 
 env:
   VERSION: "$(<version)"
@@ -19,6 +20,7 @@ jobs:
 
     - name: Build piRa1n-OS
       run: |
+        sudo apt-get install git coreutils quilt parted qemu-user-static debootstrap zerofree zip dosfstools bsdtar libcap2-bin grep rsync xz-utils file git curl bc -y
         sudo ./build.sh
         sudo mv /home/debian/piRa1n-OS/work/*-*-*-piRa1n-OS/export-image/*-*-*-piRa1n-OS-lite.img *-*-*-piRa1n-OS.img
         bzip2 -9 *-*-*-piRa1n-OS.img
