@@ -6,7 +6,10 @@ piRa1n-OS is a fork of <a href="https://github.com/RPi-Distro/pi-gen">pi-gen</a>
 <p align="center"><img src="https://gist.githubusercontent.com/raspberryenvoie/9266a96148dd3ae0266a3bbe39b9c4f0/raw/eaad7fc642b830cf6fee044727c8b8b907f1b2a2/piRa1n_logo.png" alt="logo"></p>
 
 ---
+
 [piRa1n](https://github.com/raspberryenvoie/piRa1n) lets you easily turn a Raspberry Pi 4 or a Banana Pi M2 Zero into a portable Checkra1n dongle. Make sure to read the [wiki pages](https://github.com/raspberryenvoie/piRa1n/wiki) pages for more info.
+
+## piRa1n-OS is only for the Raspberry Pi 4
 
 # Download piRa1n-OS
 [Here](https://github.com/raspberryenvoie/piRa1n-OS/releases) is the download link.\
