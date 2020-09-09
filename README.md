@@ -1,5 +1,5 @@
 <h1 align="center">piRa1n-OS</h1>
-<h3 align="center">An OS for the RPI 4 based on Raspberry Pi OS with <a href="https://github.com/raspberryenvoie/piRa1n">piRa1n</a> and <a href="https://github.com/raspberryenvoie/piRa1n-web">piRa1n-web</a> pre-installed.<br>
+<h3 align="center">An OS for the RPI 4 based on RPi OS with <a href="https://github.com/raspberryenvoie/piRa1n">piRa1n</a> and <a href="https://github.com/raspberryenvoie/piRa1n-web">piRa1n-web</a> pre-installed.<br>
 piRa1n-OS is a fork of <a href="https://github.com/RPi-Distro/pi-gen">pi-gen</a>.
 </h3>
 <p align="center"><img src="https://gist.githubusercontent.com/raspberryenvoie/9266a96148dd3ae0266a3bbe39b9c4f0/raw/eaad7fc642b830cf6fee044727c8b8b907f1b2a2/piRa1n_logo.png" alt="logo"></p>
