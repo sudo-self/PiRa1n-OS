@@ -44,7 +44,6 @@ ExecStart=/home/pi/piRa1n/startup.sh
 WantedBy=multi-user.target
 EOF
 chmod 644 ${ROOTFS_DIR}/etc/systemd/system/piRa1n.service
-systemctl enable piRa1n.service
 on_chroot << EOF
 systemctl enable piRa1n.service
 EOF
@@ -53,7 +52,7 @@ EOF
 git clone https://github.com/raspberryenvoie/piRa1n-web.git  ${ROOTFS_DIR}/home/pi/piRa1n-web/
 rm -rf ${ROOTFS_DIR}/var/www/html/*
 cp -R ${ROOTFS_DIR}/home/pi/piRa1n-web/html/* ${ROOTFS_DIR}/var/www/html/
-# Add sueirs file
+# Add sudoers file
 cat << EOF > ${ROOTFS_DIR}/etc/sudoers.d/piRa1n-web
 # piRa1n-web
 www-data ALL=(ALL) NOPASSWD: /home/pi/piRa1n/piRa1n
