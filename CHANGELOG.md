@@ -1,3 +1,7 @@
+# v4.2 - 2020-11-09
+### Changed
+- piRa1n v5.3
+
 # v4.1 - 2020-10-10
 ### Changed
 - piRa1n v5.2

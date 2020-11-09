@@ -1,6 +1,4 @@
 #!/bin/bash -e
-checkra1n_source='https://assets.checkra.in/downloads/linux/cli/arm/d751f4b245bd4071c571654607ca4058e9e7dc4a5fa30639024b6067eebf5c3b/checkra1n'
-
 # Compile libirecovery
 git clone https://github.com/libimobiledevice/libirecovery.git ${ROOTFS_DIR}/home/pi/libirecovery/
 on_chroot << EOF
@@ -16,9 +14,7 @@ rm -rf ${ROOTFS_DIR}/home/pi/libirecovery/
 # Start of the installation of piRa1n
 git clone https://github.com/raspberryenvoie/piRa1n.git ${ROOTFS_DIR}/home/pi/piRa1n/
 
-# Install checkra1n
-curl -Lko ${ROOTFS_DIR}/home/pi/piRa1n/checkra1n $checkra1n_source
-chmod +x ${ROOTFS_DIR}/home/pi/piRa1n/checkra1n
+# Create file with version of checkra1n
 on_chroot << EOF
 cd /home/pi/piRa1n/
 ./checkra1n --version > checkra1n_version 2>&1
