@@ -19,7 +19,8 @@ The tool used to build piRa1n-OS (pi-gen) supports Debian Buster and Ubuntu Xeni
 To install the required dependencies for pi-gen you should run:
 ```bash
 apt-get install coreutils quilt parted qemu-user-static debootstrap zerofree zip \
-dosfstools bsdtar libcap2-bin grep rsync xz-utils file git curl bc
+dosfstools bsdtar libcap2-bin grep rsync xz-utils file git curl bc \
+qemu-utils kpartx
 ```
 Then build piRa1n-OS by running the following commands:
 ```
