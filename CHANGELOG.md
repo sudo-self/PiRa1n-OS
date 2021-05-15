@@ -1,3 +1,18 @@
+# v4.5 - 2021-05-15
+### Changed
+- piRa1n v5.9.2
+- piRa1n-web v2.2
+
+# v4.4 - 2021-01-03
+### Changed
+- piRa1n v5.6
+- piRa1n-web v2.1.1
+
+# v4.3 - 2020-11-21
+### Changed 
+- piRa1n v5.5
+- piRa1n-web v2.1.1
+
 # v4.2 - 2020-11-09
 ### Changed
 - piRa1n v5.3
