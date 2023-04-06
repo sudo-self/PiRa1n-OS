@@ -6,10 +6,9 @@
 
 ## Download piRa1n-OS  only for the Raspberry Pi 4 (https://github.com/raspberryenvoie/piRa1n-OS/releases)
 
-## The default username is `pi` and the password is `jailbreak`.
+## The default username is `pi` and the password is `jailbreak`
 
 ## Build PiRa1n-OS
-   The tool used to build piRa1n-OS (pi-gen) supports Debian Buster and Ubuntu Xenial.
 
 To install the required dependencies for pi-gen you should run:
 ```bash
