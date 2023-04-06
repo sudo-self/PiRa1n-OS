@@ -5,10 +5,10 @@
 
 ---
 
-[piRa1n](https://github.com/raspberryenvoie/piRa1n) lets you easily turn a Raspberry Pi 4 or a Banana Pi into a Checkra1n Jailbreak.
+[PiRa1n](https://github.com/raspberryenvoie/piRa1n)Configure a Raspberry Pi 4 or a Banana Pi into a Checkra1n Jailbreak Device.
 
 # Download piRa1n-OS  only for the Raspberry Pi 4
-[Here](https://github.com/raspberryenvoie/piRa1n-OS/releases) is the download link.\
+(https://github.com/raspberryenvoie/piRa1n-OS/releases) is the download link.\
 Note: The default username is `pi` and the password is `jailbreak`.
 
 # Build PiRa1n-OS
