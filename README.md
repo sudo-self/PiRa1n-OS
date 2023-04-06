@@ -25,7 +25,8 @@ sudo ./build.sh
 ```
 ## image output:  work/date-piRa1n-OS/export-image/
 
-![pira1n](https://user-images.githubusercontent.com/119916323/230327297-c443fb9e-c1f4-43eb-810e-478422341b5a.jpg)
+![jj](https://user-images.githubusercontent.com/119916323/230341667-e85acbe6-84f0-46dd-bc50-2ea048dc2378.jpg)
+
 
 ## Credits
 - [RPi-Distro](https://github.com/RPi-Distro) for [pi-gen](https://github.com/RPi-Distro/Pi-gen)
