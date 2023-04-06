@@ -11,7 +11,7 @@
 [Here](https://github.com/raspberryenvoie/piRa1n-OS/releases) is the download link.\
 Note: The default username is `pi` and the password is `jailbreak`.
 
-# Build piRa1n-OS
+# Build PiRa1n-OS
 The tool used to build piRa1n-OS (pi-gen) supports Debian Buster and Ubuntu Xenial.
 
 To install the required dependencies for pi-gen you should run:
@@ -26,13 +26,7 @@ git clone https://github.com/raspberryenvoie/piRa1n-OS.git
 cd piRa1n-OS
 sudo ./build.sh
 ```
-Once this process is done, you will find the image in `work/date-piRa1n-OS/export-image/`.
-
-More information on pi-gen and docker build can be found [here](https://github.com/RPi-Distro/Pi-gen).
-
-# What's new?
-Read the [changelog file](https://github.com/raspberryenvoie/piRa1n-OS/blob/master/CHANGELOG.md).
-
+# Once this process is done, you will find the image in `work/date-piRa1n-OS/export-image/`.
 # Credits
 - [RPi-Distro](https://github.com/RPi-Distro) for [pi-gen](https://github.com/RPi-Distro/Pi-gen)
 - The Raspberry Pi Foundation for [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
