@@ -7,9 +7,9 @@
 
 [piRa1n](https://github.com/raspberryenvoie/piRa1n) lets you easily turn a Raspberry Pi 4 or a Banana Pi M2 Zero into a portable Checkra1n dongle. Make sure to read the [wiki pages](https://github.com/raspberryenvoie/piRa1n/wiki) pages for more info.
 
-## piRa1n-OS is only for the Raspberry Pi 4
 
-# Download piRa1n-OS
+
+# Download piRa1n-OS  only for the Raspberry Pi 4
 [Here](https://github.com/raspberryenvoie/piRa1n-OS/releases) is the download link.\
 Note: The default username is `pi` and the password is `jailbreak`.
 
