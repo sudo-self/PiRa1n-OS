@@ -3,15 +3,12 @@
 </h3>
 <p align="center"><img src="https://gist.githubusercontent.com/raspberryenvoie/9266a96148dd3ae0266a3bbe39b9c4f0/raw/65aca16d3ba11776f5f28a35e6d58c122540d426/piRa1n_logo.png"></p>
 
----
 
-[PiRa1n](https://github.com/raspberryenvoie/piRa1n)Configure a Raspberry Pi 4 or a Banana Pi into a Checkra1n Jailbreak Device.
-
-# Download piRa1n-OS  only for the Raspberry Pi 4
+## Download piRa1n-OS  only for the Raspberry Pi 4
 (https://github.com/raspberryenvoie/piRa1n-OS/releases) is the download link.\
 Note: The default username is `pi` and the password is `jailbreak`.
 
-# Build PiRa1n-OS
+## Build PiRa1n-OS
 The tool used to build piRa1n-OS (pi-gen) supports Debian Buster and Ubuntu Xenial.
 
 To install the required dependencies for pi-gen you should run:
@@ -26,7 +23,7 @@ git clone https://github.com/raspberryenvoie/piRa1n-OS.git
 cd piRa1n-OS
 sudo ./build.sh
 ```
-# image output path /work/date-piRa1n-OS/export-image/
+## image output path /work/date-piRa1n-OS/export-image/
 ## Credits
 - [RPi-Distro](https://github.com/RPi-Distro) for [pi-gen](https://github.com/RPi-Distro/Pi-gen)
 - The Raspberry Pi Foundation for [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
