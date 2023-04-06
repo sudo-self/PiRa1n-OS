@@ -1,5 +1,5 @@
-<h1 align="center">piRa1n-OS</h1>
-<h3 align="center">Debian RPI 4 Linux Checkra1n Jailbreak<a href="https://github.com/raspberryenvoie/piRa1n">piRa1n</a> and <a href="https://github.com/raspberryenvoie/piRa1n-web">piRa1n-web</a> pre-installed.
+<h1 align="center">PiRa1n-OS</h1>
+<h3 align="center">Debian RPI 4 Linux Checkra1n<a href="https://github.com/raspberryenvoie/piRa1n">PiRa1n</a>and<a href="https://github.com/raspberryenvoie/piRa1n-web">PiRa1n-web</a>pre-installed.
 </h3>
 <p align="center"><img src="https://gist.githubusercontent.com/raspberryenvoie/9266a96148dd3ae0266a3bbe39b9c4f0/raw/65aca16d3ba11776f5f28a35e6d58c122540d426/piRa1n_logo.png"></p>
 
