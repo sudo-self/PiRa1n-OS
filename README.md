@@ -4,7 +4,7 @@
 <p align="center"><img src="https://gist.githubusercontent.com/raspberryenvoie/9266a96148dd3ae0266a3bbe39b9c4f0/raw/65aca16d3ba11776f5f28a35e6d58c122540d426/piRa1n_logo.png"></p>
 
 
-## Download piRa1n-OS  only for the Raspberry Pi 4 (https://github.com/raspberryenvoie/piRa1n-OS/releases)
+## Download piRa1n-OS  only for the Raspberry Pi 4 https://github.com/raspberryenvoie/piRa1n-OS/releases
 
 ## The default username is `pi` and the password is `jailbreak`
 
@@ -22,8 +22,10 @@ git clone https://github.com/raspberryenvoie/piRa1n-OS.git
 cd piRa1n-OS
 sudo ./build.sh
 ```
-### image output path /work/date-piRa1n-OS/export-image/
-### Credits
+## image output:  work/date-piRa1n-OS/export-image/
+
+
+## Credits
 - [RPi-Distro](https://github.com/RPi-Distro) for [pi-gen](https://github.com/RPi-Distro/Pi-gen)
 - The Raspberry Pi Foundation for [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
 - The Checkra1n team for [Checkra1n](https://checkra.in)
