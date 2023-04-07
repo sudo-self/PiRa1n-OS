@@ -5,7 +5,7 @@
 
 
 ## Download piRa1n-OS  only for the Raspberry Pi 4
-https://github.com/raspberryenvoie/piRa1n-OS/releases
+https://github.com/sudo-self/PiRa1n-OS
 
 ## The default username is `pi` and the password is `jailbreak`
 
