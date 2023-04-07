@@ -25,7 +25,7 @@ sudo ./build.sh
 ```
 ## image output:  work/date-piRa1n-OS/export-image/
 
-![jj](https://user-images.githubusercontent.com/119916323/230341667-e85acbe6-84f0-46dd-bc50-2ea048dc2378.jpg)
+![kk](https://user-images.githubusercontent.com/119916323/230678559-e648de33-f322-4748-8c21-a5dc4531af92.jpg)
 
 
 ## Credits
